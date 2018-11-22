@@ -1,3 +1,6 @@
 # Autor: PutoAmo y asociados
 
-# Cambio1
+public class Manzana(){
+int v=16;
+printf(v);
+}
